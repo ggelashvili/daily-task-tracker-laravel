@@ -5,4 +5,5 @@ This repository contains the source code of the project from the Daily Task Trac
 - [Part 1](https://youtu.be/VYMCgpIoFLo)
 - [Part 2](https://youtu.be/WbcVKeOE6Vk)
 - [Part 3](https://youtu.be/xDSXfrw3JyQ)
+- [Part 4](https://youtu.be/0DxZlKfO4QY)
 
